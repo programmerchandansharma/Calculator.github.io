@@ -1,7 +1,3 @@
-# Suggested Repo Descriptions
-
-Go to each repo → click the ⚙️ gear icon next to "About" (top right of the repo page) → paste the description below → Save.
-
 | Repo | Paste this as the description |
 |---|---|
 | Portfolio | Personal portfolio website showcasing my projects and skills |
@@ -14,5 +10,3 @@ Go to each repo → click the ⚙️ gear icon next to "About" (top right of the
 | demo | Demo/test repository |
 | billing-software | Simple auto-calculating billing tool |
 | superstar-haircutting-salon | Salon booking/business website demo |
-
-Also add **Topics** (tags) to each repo for discoverability — e.g. for `Calculator.github.io`: `html`, `css`, `javascript`, `calculator`.
